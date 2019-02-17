@@ -1,4 +1,7 @@
+# Creates a function called "cheese_and_crackers" with to arguments,
+# cheese_count" and "boxes_of_crackers"
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
+# prints the value of "cheese_count" in a string using digit formatter
     print(f"You have {cheese_count} cheeses!")
     print(f"You have {boxes_of_crackers} boxes of crackers!")
     print("Man that's enough for a party!")
